@@ -1,5 +1,5 @@
 <a href = "https://discord.gg/fckYWEdmUR">
-<img src="https://cdn.discordapp.com/attachments/1277199225133862935/1279067690295890011/esjjo-banner.jpeg?ex=66d3181d&is=66d1c69d&hm=e49015c153eac19b7ce3fa29f04a92d79e78aa6f5c959e001c480b714365b82d&" />
+<img src="https://cdn.discordapp.com/attachments/1276230894784352368/1279713263415853130/esjjo-banner.jpeg?ex=66d57159&is=66d41fd9&hm=6a85870c0d98d42d6ba6bc21a0db948fc42daf7755222e3a8ab72465acd73516&" />
 </a>
 Hey There I am Esjjo,
 
