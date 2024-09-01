@@ -22,7 +22,7 @@ Data is retained for as long as necessary for the Service to operate or until a 
 Your data is important to us. We do not share it with third parties.
 
 ## Data Deletion: How to Make It Happen
-If you want your user data deleted, you can reach out to us by Join our [support Discord server]( https://discord.gg/fckYWEdmUR ) and messaging a developer with your Discord User ID. Keep in mind, deleting certain data might make some or all features of the Service unavailable. And if you ask to delete premium information, your servers might get deactivated without a refund. You can request data deletion once every 30 days.
+If you want your user data deleted, you can reach out to us by Join our [support Discord server]( https://discord.gg/NuYdsuJ6Z3 ) and messaging a developer with your Discord User ID. Keep in mind, deleting certain data might make some or all features of the Service unavailable. And if you ask to delete premium information, your servers might get deactivated without a refund. You can request data deletion once every 30 days.
 
 ## Contact Us for Support
 If you have any questions, feel free to ask! You can reach out to us by Join our support Discord server We'll respond promptly to assist you.
